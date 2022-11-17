@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.54.244:9090/nexusnk/repository/appname-release/</url>
+	      <url>http://13.126.134.48:9090/nexusnk/repository/appname-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
