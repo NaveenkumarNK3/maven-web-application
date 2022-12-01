@@ -1,4 +1,5 @@
-node{
+node('nodes')
+{
     def maven = tool name: 'Maven 3.8.6'
     echo "Job name is: ${env.JOB_NAME}"
     echo "BUild Number is: ${env.BUILD_NUMBER}"
